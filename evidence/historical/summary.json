@@ -1,0 +1,21 @@
+{
+  "zipSha256": "327ee5a0f1c212a277a0a7aabc5f9ab5196a52f16388e809c73a550dc1a5b8d9",
+  "mainRides": 43,
+  "youngRides": 3,
+  "nativeRides": 2,
+  "publicMeasuredFrames": 1397,
+  "publicTurnFrames": 467,
+  "publicMaxPelvis": 0.008735494,
+  "publicMaxSaddle": 0.008734641,
+  "nativeMeasuredFrames": 70,
+  "nativeMaxPelvis": 0.016105881,
+  "nativeMaxSaddle": 0.008734641,
+  "nestedStockBagCargo": [
+    "/backpack_attach(0,0)/4002-gamedata.base/backpack_content(0,0)/42241-rebirth.mod x4"
+  ],
+  "distinctFits": 22,
+  "saveReloadRemountFoot": 5,
+  "unownedGarruRefused": true,
+  "publicRosterAndYoungFrames": 1326,
+  "secondaryCameraRides": 2
+}

@@ -1,0 +1,16 @@
+{
+  "game": "0.22.1+9ee4074bbc6fd7fdeb26108a04afc9f90cb1dc01",
+  "transport": "0.3.0-playtest.6",
+  "workers": 4,
+  "primaryRides": 43,
+  "youngerRides": 3,
+  "distinctFits": 22,
+  "posedFrames": 1243,
+  "turnFrames": 432,
+  "maxPelvis": 0.02376087,
+  "maxSaddle": 0.008734854,
+  "unownedRefused": true,
+  "saveReloadRemount": 3,
+  "minimumHeading": 82.56986,
+  "maximumHeading": 103.28588
+}

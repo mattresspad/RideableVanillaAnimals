@@ -1,0 +1,22 @@
+{
+  "zip": "Rideable Vanilla Animals.zip",
+  "sha256": "327ee5a0f1c212a277a0a7aabc5f9ab5196a52f16388e809c73a550dc1a5b8d9",
+  "fcs": {
+    "format": 17,
+    "dependencies": [
+      "Meitou Transport.mod"
+    ],
+    "records": 0
+  },
+  "schema": 3,
+  "fitCount": 22,
+  "recordCount": 43,
+  "nativeAndPublicInstallsMatch": true,
+  "artMatchesOriginalCC0": true,
+  "files": {
+    "Rideable Vanilla Animals/Rideable Vanilla Animals.mod": "c7ae4e2ecc0f25ae2d5193ac68b1f27e4aa431e00071d474781f41be84122b0e",
+    "Rideable Vanilla Animals/meshes/rva_trail.mesh": "3bdd4171ba421565e093bc5810ec1b7a306ac22fdb348edd513ad65e6fd65ff6",
+    "Rideable Vanilla Animals/textures/rva_trail.dds": "24207e825ed42e8192e177b1940ef0ff637a1b293c7bc915d85eef123a21831c",
+    "Rideable Vanilla Animals/transport.json": "13a81064768815f4a72dcbab5e8036b57b565dd46c29568caf9208ddc66aa6d9"
+  }
+}

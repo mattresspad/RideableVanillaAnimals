@@ -1,0 +1,561 @@
+{
+  "schemaVersion": 3,
+  "packId": "rideable-vanilla-animals",
+  "mounts": [
+    {
+      "id": "rideable-vanilla-animals.garru",
+      "label": "Garru Trail Saddle",
+      "animalRecordIds": [
+        "42201-rebirth.mod",
+        "3999-gamedata.base",
+        "8355-Dialogue.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        0.54,
+        9.05,
+        0.4
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.85,
+        0
+      ],
+      "seatYawDegrees": 0,
+      "saddleMesh": "meshes/rva_trail.mesh",
+      "texture": "textures/rva_trail.dds"
+    },
+    {
+      "id": "rideable-vanilla-animals.goat",
+      "label": "Goat",
+      "animalRecordIds": [
+        "64738-Dialogue.mod",
+        "58495-Dialogue.mod",
+        "3993-gamedata.base"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0,
+        2.014,
+        -0.664
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.45,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.horned-bull",
+      "label": "Horned Bull Saddle",
+      "animalRecordIds": [
+        "47929-rebirth.mod",
+        "3986-gamedata.base"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0.28,
+        7.6,
+        2.2
+      ],
+      "saddleRotationDegrees": [
+        -5,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.8,
+        -0.35
+      ],
+      "seatYawDegrees": 0,
+      "saddleMesh": "meshes/rva_trail.mesh",
+      "texture": "textures/rva_trail.dds"
+    },
+    {
+      "id": "rideable-vanilla-animals.domesticated-bull",
+      "label": "Domesticated Bull Saddle",
+      "animalRecordIds": [
+        "43949-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0,
+        7.75,
+        2.25
+      ],
+      "saddleRotationDegrees": [
+        -5,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.8,
+        -0.35
+      ],
+      "seatYawDegrees": 0,
+      "saddleMesh": "meshes/rva_trail.mesh",
+      "texture": "textures/rva_trail.dds"
+    },
+    {
+      "id": "rideable-vanilla-animals.bonedog",
+      "label": "Bonedog",
+      "animalRecordIds": [
+        "3979-gamedata.base",
+        "62553-rebirth.mod",
+        "62551-rebirth.mod",
+        "16859-gamedata.base",
+        "10323-Dialogue (7).mod",
+        "64737-Dialogue.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        0,
+        2.423,
+        1.495
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.25,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.crab",
+      "label": "Crab",
+      "animalRecordIds": [
+        "56088-Newwworld.mod",
+        "1532708-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine",
+      "saddleOffset": [
+        0,
+        5.152,
+        4.231
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.giant-crab",
+      "label": "Giant Crab",
+      "animalRecordIds": [
+        "1532791-rebirth.mod",
+        "56121-rebirth.mod",
+        "1532793-rebirth.mod",
+        "1532795-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine",
+      "saddleOffset": [
+        0,
+        5.152,
+        4.231
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        0.88,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.gorillo",
+      "label": "Gorillo",
+      "animalRecordIds": [
+        "55670-rebirth.mod",
+        "43895-rebirth.mod",
+        "98509-rebirth.mod",
+        "99175-Dialogue.mod"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0.989,
+        6.354,
+        -0.6
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.king-gorillo",
+      "label": "King Gorillo",
+      "animalRecordIds": [
+        "62768-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0.989,
+        6.411,
+        1.2
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        3.1,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.robot-spider",
+      "label": "Mechanical Spider",
+      "animalRecordIds": [
+        "42069-small_changes_otto.mod",
+        "48670-rebirth.mod",
+        "50318-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine",
+      "saddleOffset": [
+        0,
+        11.379,
+        3.531
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.crimper",
+      "label": "Crimper",
+      "animalRecordIds": [
+        "65262-Newwworld.mod",
+        "96147-__Southern hive.mod"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0.989,
+        2.387,
+        -0.7
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.5,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.flesh-spider",
+      "label": "Flesh Spider",
+      "animalRecordIds": [
+        "44882-rebirth.mod",
+        "43877-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        0.968,
+        1.889,
+        0.11
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.5,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.swamp-raptor",
+      "label": "Swamp Raptor",
+      "animalRecordIds": [
+        "43326-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        -0.003,
+        3.19,
+        0.631
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.8,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.megaraptor",
+      "label": "Megaraptor",
+      "animalRecordIds": [
+        "50983-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        -0.003,
+        2.016,
+        2.481
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        0.85,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.river-raptor",
+      "label": "River Raptor",
+      "animalRecordIds": [
+        "44911-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        -0.003,
+        3.172,
+        0.681
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.beak-thing",
+      "label": "Beak Thing",
+      "animalRecordIds": [
+        "2859-gamedata.base"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0,
+        7.986,
+        -2.956
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.cage-beast",
+      "label": "Cage Beast",
+      "animalRecordIds": [
+        "42067-small_changes_otto.mod"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        0.372,
+        6.584,
+        0.563
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.1,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.cleanser",
+      "label": "Cleanser Unit",
+      "animalRecordIds": [
+        "56111-Newwworld.mod"
+      ],
+      "anchorBone": "Bip01 Spine",
+      "saddleOffset": [
+        -0,
+        5.712,
+        0.077
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.swamp-turtle",
+      "label": "Swamp Turtle",
+      "animalRecordIds": [
+        "3988-gamedata.base"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        -0,
+        12.988,
+        1.488
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        0.65,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.landbat",
+      "label": "Landbat",
+      "animalRecordIds": [
+        "97572-Newwworld.mod"
+      ],
+      "anchorBone": "Bip01 Spine3",
+      "saddleOffset": [
+        -0,
+        1.341,
+        -0.172
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.2,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.skimmer",
+      "label": "Skimmer",
+      "animalRecordIds": [
+        "56087-rebirth.mod"
+      ],
+      "anchorBone": "Bip01 Spine1",
+      "saddleOffset": [
+        0.759,
+        8.989,
+        -3.235
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        2.3,
+        0
+      ],
+      "seatYawDegrees": 0
+    },
+    {
+      "id": "rideable-vanilla-animals.leviathan",
+      "label": "Leviathan",
+      "animalRecordIds": [
+        "3967-gamedata.base"
+      ],
+      "anchorBone": "Bip01 Spine2",
+      "saddleOffset": [
+        -0,
+        58.344,
+        -6.145
+      ],
+      "saddleRotationDegrees": [
+        0,
+        0,
+        0
+      ],
+      "seatOffset": [
+        0,
+        1.9,
+        0
+      ],
+      "seatYawDegrees": 0
+    }
+  ]
+}

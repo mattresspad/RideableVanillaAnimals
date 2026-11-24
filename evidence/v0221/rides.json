@@ -1,0 +1,1144 @@
+[
+  {
+    "id": "42201-rebirth.mod",
+    "name": "Garru",
+    "fit": "rideable-vanilla-animals.garru",
+    "scale": 1,
+    "turnDegrees": 92.63143,
+    "frames": 31,
+    "turnFrames": 13,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": 0.008734854,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42243-rebirth.mod x10",
+      "/main(0,2)/42241-rebirth.mod x3"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "42201-rebirth.mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "3999-gamedata.base",
+    "name": "Pack Beast",
+    "fit": "rideable-vanilla-animals.garru",
+    "scale": 1.0000569,
+    "turnDegrees": 93.80426,
+    "frames": 39,
+    "turnFrames": 14,
+    "maxPelvis": 0.017469388,
+    "maxSaddle": 0.008734854,
+    "bag": "4002-gamedata.base",
+    "cargo": [
+      "/backpack_attach(0,0)/4002-gamedata.base x1",
+      "/backpack_attach(0,0)/4002-gamedata.base/backpack_content(0,0)/42241-rebirth.mod x4",
+      "/main(0,2)/42243-rebirth.mod x10"
+    ],
+    "remounted": true,
+    "footDistance": 6.2361164,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "3999-gamedata.base-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "8355-Dialogue.mod",
+    "name": "Pack Beast Dead",
+    "fit": "rideable-vanilla-animals.garru",
+    "scale": 1.0000569,
+    "turnDegrees": 91.45835,
+    "frames": 27,
+    "turnFrames": 11,
+    "maxPelvis": 0.011048543,
+    "maxSaddle": 0.008734641,
+    "bag": "4002-gamedata.base",
+    "cargo": [
+      "/backpack_attach(0,0)/4002-gamedata.base x1"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1"
+    ],
+    "image": "8355-Dialogue.mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "43949-rebirth.mod",
+    "name": "Domesticated Bull",
+    "fit": "rideable-vanilla-animals.domesticated-bull",
+    "scale": 1.0000482,
+    "turnDegrees": 95.230415,
+    "frames": 31,
+    "turnFrames": 12,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": 0.008734854,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x4",
+      "/main(0,2)/42243-rebirth.mod x20"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "43949-rebirth.mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "3986-gamedata.base",
+    "name": "Wild Bull",
+    "fit": "rideable-vanilla-animals.horned-bull",
+    "scale": 1.0000482,
+    "turnDegrees": 92.83031,
+    "frames": 31,
+    "turnFrames": 11,
+    "maxPelvis": 0.011718909,
+    "maxSaddle": 0.0078125,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x4",
+      "/main(0,2)/42243-rebirth.mod x10",
+      "/main(2,2)/42314-changes_otto.mod x2"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "3986-gamedata.base-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "3993-gamedata.base",
+    "name": "Goat",
+    "fit": "rideable-vanilla-animals.goat",
+    "scale": 1.0002402,
+    "turnDegrees": 95.868256,
+    "frames": 32,
+    "turnFrames": 8,
+    "maxPelvis": 0.01562512,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x2",
+      "/main(0,2)/42243-rebirth.mod x7"
+    ],
+    "remounted": true,
+    "footDistance": 6.232744,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "3993-gamedata.base-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "64738-Dialogue.mod",
+    "name": "Beloved Goat",
+    "fit": "rideable-vanilla-animals.goat",
+    "scale": 1.0002402,
+    "turnDegrees": 95.86579,
+    "frames": 23,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x1",
+      "/main(0,2)/42243-rebirth.mod x7"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle3",
+      "run",
+      "walk"
+    ],
+    "image": "64738-Dialogue.mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "58495-Dialogue.mod",
+    "name": "Cornelius",
+    "fit": "rideable-vanilla-animals.goat",
+    "scale": 1.0001801,
+    "turnDegrees": 95.86579,
+    "frames": 22,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x1",
+      "/main(0,2)/42243-rebirth.mod x7"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "58495-Dialogue.mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "3979-gamedata.base",
+    "name": "Bonedog",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 0.85013855,
+    "turnDegrees": 94.860085,
+    "frames": 24,
+    "turnFrames": 8,
+    "maxPelvis": 0.008734854,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x1",
+      "/main(0,2)/42315-changes_otto.mod x4",
+      "/main(1,2)/42243-rebirth.mod x3"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "3979-gamedata.base-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "10323-Dialogue (7).mod",
+    "name": "Pet Dog",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 1.0001941,
+    "turnDegrees": 94.86252,
+    "frames": 22,
+    "turnFrames": 8,
+    "maxPelvis": 0.01562512,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "10323-Dialogue (7).mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "64737-Dialogue.mod",
+    "name": "Settler's Pup",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 1.0001941,
+    "turnDegrees": 94.89568,
+    "frames": 23,
+    "turnFrames": 8,
+    "maxPelvis": 0.008735494,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle3",
+      "run",
+      "walk"
+    ],
+    "image": "64737-Dialogue.mod-turn.png",
+    "case": "packs-and-goats"
+  },
+  {
+    "id": "16859-gamedata.base",
+    "name": "Mountain Dog",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 1.1,
+    "turnDegrees": 95.00209,
+    "frames": 26,
+    "turnFrames": 8,
+    "maxPelvis": 0.015625,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x2",
+      "/main(0,2)/42315-changes_otto.mod x4",
+      "/main(1,2)/42243-rebirth.mod x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "16859-gamedata.base-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "62551-rebirth.mod",
+    "name": "Horse Dog",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 1,
+    "turnDegrees": 94.87514,
+    "frames": 23,
+    "turnFrames": 8,
+    "maxPelvis": 0.015625,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x2",
+      "/main(0,2)/42315-changes_otto.mod x4",
+      "/main(1,2)/42243-rebirth.mod x3"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle3",
+      "run",
+      "walk"
+    ],
+    "image": "62551-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "62553-rebirth.mod",
+    "name": "Boneyard Wolf",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 1.5,
+    "turnDegrees": 96.53745,
+    "frames": 24,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x6",
+      "/main(4,0)/42315-changes_otto.mod x8",
+      "/main(4,1)/42243-rebirth.mod x8"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "62553-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "44911-rebirth.mod",
+    "name": "River Raptor",
+    "fit": "rideable-vanilla-animals.river-raptor",
+    "scale": 1,
+    "turnDegrees": 92.36922,
+    "frames": 36,
+    "turnFrames": 9,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x1",
+      "/main(0,2)/50567-rebirth.mod x4"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "44911-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "43326-rebirth.mod",
+    "name": "Swamp Raptor",
+    "fit": "rideable-vanilla-animals.swamp-raptor",
+    "scale": 1.5,
+    "turnDegrees": 92.36922,
+    "frames": 35,
+    "turnFrames": 9,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x1",
+      "/main(0,2)/50567-rebirth.mod x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "43326-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "50983-rebirth.mod",
+    "name": "Megaraptor",
+    "fit": "rideable-vanilla-animals.megaraptor",
+    "scale": 3.5,
+    "turnDegrees": 92.369865,
+    "frames": 36,
+    "turnFrames": 9,
+    "maxPelvis": 0.011049218,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x20",
+      "/main(4,0)/50984-rebirth.mod x10"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "50983-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "56088-Newwworld.mod",
+    "name": "Crab",
+    "fit": "rideable-vanilla-animals.crab",
+    "scale": 1,
+    "turnDegrees": 93.613304,
+    "frames": 28,
+    "turnFrames": 9,
+    "maxPelvis": 0.008734854,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/50567-rebirth.mod x1",
+      "/main(2,0)/42243-rebirth.mod x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "56088-Newwworld.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "56121-rebirth.mod",
+    "name": "Megacrab",
+    "fit": "rideable-vanilla-animals.giant-crab",
+    "scale": 2.25,
+    "turnDegrees": 93.65423,
+    "frames": 27,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/56122-rebirth.mod x5",
+      "/main(3,0)/50567-rebirth.mod x20",
+      "/main(5,0)/42243-rebirth.mod x10"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "56121-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "1532791-rebirth.mod",
+    "name": "Barnabus",
+    "fit": "rideable-vanilla-animals.giant-crab",
+    "scale": 2.25,
+    "turnDegrees": 93.65423,
+    "frames": 27,
+    "turnFrames": 8,
+    "maxPelvis": 0.008736559,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/50567-rebirth.mod x20",
+      "/main(2,0)/42243-rebirth.mod x10",
+      "/main(4,0)/56122-rebirth.mod x5"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "1532791-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "1532793-rebirth.mod",
+    "name": "Mr Gigantus",
+    "fit": "rideable-vanilla-animals.giant-crab",
+    "scale": 2.25,
+    "turnDegrees": 93.65423,
+    "frames": 27,
+    "turnFrames": 8,
+    "maxPelvis": 0.008734854,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/56122-rebirth.mod x5",
+      "/main(3,0)/50567-rebirth.mod x20",
+      "/main(5,0)/42243-rebirth.mod x10"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "1532793-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "1532795-rebirth.mod",
+    "name": "The Crabinator",
+    "fit": "rideable-vanilla-animals.giant-crab",
+    "scale": 2.25,
+    "turnDegrees": 93.65423,
+    "frames": 27,
+    "turnFrames": 8,
+    "maxPelvis": 0.017469281,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/56122-rebirth.mod x5",
+      "/main(3,0)/50567-rebirth.mod x20",
+      "/main(5,0)/42243-rebirth.mod x10"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "1532795-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "1532708-rebirth.mod",
+    "name": "Titus",
+    "fit": "rideable-vanilla-animals.crab",
+    "scale": 1,
+    "turnDegrees": 93.58532,
+    "frames": 28,
+    "turnFrames": 9,
+    "maxPelvis": 0.01562512,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/50567-rebirth.mod x1",
+      "/main(2,0)/42243-rebirth.mod x10"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "1532708-rebirth.mod-turn.png",
+    "case": "dogs-raptors-and-crabs"
+  },
+  {
+    "id": "42069-small_changes_otto.mod",
+    "name": "Iron Spider",
+    "fit": "rideable-vanilla-animals.robot-spider",
+    "scale": 1,
+    "turnDegrees": 93.62528,
+    "frames": 28,
+    "turnFrames": 9,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42164-gamedata.base x2",
+      "/main(3,0)/42159-gamedata.base x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "42069-small_changes_otto.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "48670-rebirth.mod",
+    "name": "Security Spider",
+    "fit": "rideable-vanilla-animals.robot-spider",
+    "scale": 0.6,
+    "turnDegrees": 93.52254,
+    "frames": 28,
+    "turnFrames": 9,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42164-gamedata.base x4",
+      "/main(0,2)/43395-changes_otto.mod x1",
+      "/main(0,3)/42159-gamedata.base x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "48670-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "50318-rebirth.mod",
+    "name": "Security Spider II",
+    "fit": "rideable-vanilla-animals.robot-spider",
+    "scale": 0.3,
+    "turnDegrees": 93.04911,
+    "frames": 27,
+    "turnFrames": 8,
+    "maxPelvis": 0.01562512,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42164-gamedata.base x3",
+      "/main(0,2)/43395-changes_otto.mod x1",
+      "/main(0,3)/42159-gamedata.base x4"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "50318-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "44882-rebirth.mod",
+    "name": "Blood Spider",
+    "fit": "rideable-vanilla-animals.flesh-spider",
+    "scale": 0.3,
+    "turnDegrees": 95.810524,
+    "frames": 20,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42315-changes_otto.mod x2"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "44882-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "43877-rebirth.mod",
+    "name": "Skin Spider",
+    "fit": "rideable-vanilla-animals.flesh-spider",
+    "scale": 1,
+    "turnDegrees": 95.810524,
+    "frames": 20,
+    "turnFrames": 8,
+    "maxPelvis": 0.008734854,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42313-changes_otto.mod x2"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "43877-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "56087-rebirth.mod",
+    "name": "Skimmer",
+    "fit": "rideable-vanilla-animals.skimmer",
+    "scale": 0.8,
+    "turnDegrees": 96.51802,
+    "frames": 20,
+    "turnFrames": 8,
+    "maxPelvis": 0.01562512,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42313-changes_otto.mod x6",
+      "/main(0,2)/42243-rebirth.mod x2",
+      "/main(1,0)/50567-rebirth.mod x8"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "walk"
+    ],
+    "image": "56087-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "43895-rebirth.mod",
+    "name": "Gorillo",
+    "fit": "rideable-vanilla-animals.gorillo",
+    "scale": 0.85,
+    "turnDegrees": 97.20449,
+    "frames": 23,
+    "turnFrames": 8,
+    "maxPelvis": 0.016106345,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "43895-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "55670-rebirth.mod",
+    "name": "Black Gorillo",
+    "fit": "rideable-vanilla-animals.gorillo",
+    "scale": 1.1,
+    "turnDegrees": 97.28442,
+    "frames": 22,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x8"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "55670-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "98509-rebirth.mod",
+    "name": "Great White Gorillo",
+    "fit": "rideable-vanilla-animals.gorillo",
+    "scale": 0.85,
+    "turnDegrees": 97.81264,
+    "frames": 21,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/98510-rebirth.mod x3",
+      "/main(0,3)/1534121-__Fixes.mod x1"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "98509-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "62768-rebirth.mod",
+    "name": "King Gorillo",
+    "fit": "rideable-vanilla-animals.king-gorillo",
+    "scale": 2.5,
+    "turnDegrees": 98.53461,
+    "frames": 22,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x8"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "62768-rebirth.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "99175-Dialogue.mod",
+    "name": "War Gorillo",
+    "fit": "rideable-vanilla-animals.gorillo",
+    "scale": 1.1,
+    "turnDegrees": 98.06536,
+    "frames": 23,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x8"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "99175-Dialogue.mod-turn.png",
+    "case": "spiders-and-gorillos"
+  },
+  {
+    "id": "65262-Newwworld.mod",
+    "name": "Crimper",
+    "fit": "rideable-vanilla-animals.crimper",
+    "scale": 1.5,
+    "turnDegrees": 103.28588,
+    "frames": 20,
+    "turnFrames": 8,
+    "maxPelvis": 0.015625477,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/2288-gamedata.base x1",
+      "/main(0,3)/43394-changes_otto.mod x1",
+      "/main(0,6)/583-gamedata.base x1"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "65262-Newwworld.mod-turn.png",
+    "case": "large-animals"
+  },
+  {
+    "id": "96147-__Southern hive.mod",
+    "name": "King",
+    "fit": "rideable-vanilla-animals.crimper",
+    "scale": 1.5,
+    "turnDegrees": 97.78095,
+    "frames": 20,
+    "turnFrames": 8,
+    "maxPelvis": 0.015625,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/2288-gamedata.base x4",
+      "/main(0,3)/43394-changes_otto.mod x4",
+      "/main(0,6)/583-gamedata.base x4"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "96147-__Southern hive.mod-turn.png",
+    "case": "large-animals"
+  },
+  {
+    "id": "97572-Newwworld.mod",
+    "name": "Landbat",
+    "fit": "rideable-vanilla-animals.landbat",
+    "scale": 1.25,
+    "turnDegrees": 94.73089,
+    "frames": 27,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105881,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x6",
+      "/main(0,2)/50567-rebirth.mod x3",
+      "/main(0,4)/42315-changes_otto.mod x4",
+      "/main(2,2)/42243-rebirth.mod x2"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "97572-Newwworld.mod-turn.png",
+    "case": "large-animals"
+  },
+  {
+    "id": "2859-gamedata.base",
+    "name": "Beak Thing",
+    "fit": "rideable-vanilla-animals.beak-thing",
+    "scale": 1,
+    "turnDegrees": 92.94326,
+    "frames": 26,
+    "turnFrames": 10,
+    "maxPelvis": 0.02376087,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x6",
+      "/main(4,0)/42243-rebirth.mod x5",
+      "/main(6,0)/50567-rebirth.mod x12"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "2859-gamedata.base-turn.png",
+    "case": "large-animals"
+  },
+  {
+    "id": "42067-small_changes_otto.mod",
+    "name": "Cage Beast",
+    "fit": "rideable-vanilla-animals.cage-beast",
+    "scale": 1.1,
+    "turnDegrees": 99.82193,
+    "frames": 27,
+    "turnFrames": 11,
+    "maxPelvis": 0.011718909,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x14",
+      "/main(0,2)/42243-rebirth.mod x20"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "42067-small_changes_otto.mod-turn.png",
+    "case": "large-animals"
+  },
+  {
+    "id": "3988-gamedata.base",
+    "name": "Swamp Turtle",
+    "fit": "rideable-vanilla-animals.swamp-turtle",
+    "scale": 1.5,
+    "turnDegrees": 96.02794,
+    "frames": 27,
+    "turnFrames": 11,
+    "maxPelvis": 0.015625477,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42243-rebirth.mod x14"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "walk"
+    ],
+    "image": "3988-gamedata.base-turn.png",
+    "case": "large-animals"
+  },
+  {
+    "id": "56111-Newwworld.mod",
+    "name": "Cleanser Unit",
+    "fit": "rideable-vanilla-animals.cleanser",
+    "scale": 1,
+    "turnDegrees": 97.28675,
+    "frames": 38,
+    "turnFrames": 16,
+    "maxPelvis": 0.015625477,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/43392-changes_otto.mod x1",
+      "/main(10,0)/43395-changes_otto.mod x6",
+      "/main(10,1)/42159-gamedata.base x20",
+      "/main(14,1)/42160-gamedata.base x20",
+      "/main(4,0)/42164-gamedata.base x20",
+      "/main(4,2)/43394-changes_otto.mod x4",
+      "/main(7,0)/45557-changes_otto.mod x3"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "56111-Newwworld.mod-turn.png",
+    "case": "cleanser"
+  },
+  {
+    "id": "3967-gamedata.base",
+    "name": "Leviathan",
+    "fit": "rideable-vanilla-animals.leviathan",
+    "scale": 1.5,
+    "turnDegrees": 98.50222,
+    "frames": 37,
+    "turnFrames": 16,
+    "maxPelvis": 0.016107732,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42338-changes_otto.mod x1"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "3967-gamedata.base-turn.png",
+    "case": "leviathan"
+  },
+  {
+    "id": "47929-rebirth.mod",
+    "name": "Pack Bull",
+    "fit": "rideable-vanilla-animals.horned-bull",
+    "scale": 0.6994449,
+    "turnDegrees": 82.56986,
+    "frames": 43,
+    "turnFrames": 20,
+    "maxPelvis": 0.008735494,
+    "maxSaddle": 0.00552562,
+    "bag": "43948-rebirth.mod",
+    "cargo": [
+      "/backpack_attach(0,0)/43948-rebirth.mod x1",
+      "/main(0,0)/42241-rebirth.mod x4",
+      "/main(0,2)/42243-rebirth.mod x10",
+      "/main(2,2)/42314-changes_otto.mod x2"
+    ],
+    "remounted": true,
+    "footDistance": 7.988235,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "47929-rebirth.mod-turn.png",
+    "case": "trader"
+  },
+  {
+    "id": "56088-Newwworld.mod",
+    "name": "Crab",
+    "fit": "rideable-vanilla-animals.crab",
+    "scale": 0.37,
+    "turnDegrees": 93.613304,
+    "frames": 24,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/50567-rebirth.mod x1",
+      "/main(2,0)/42243-rebirth.mod x6"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle1",
+      "walk"
+    ],
+    "image": "56088-Newwworld.mod-turn.png",
+    "case": "small"
+  },
+  {
+    "id": "3993-gamedata.base",
+    "name": "Goat",
+    "fit": "rideable-vanilla-animals.goat",
+    "scale": 0.6425,
+    "turnDegrees": 95.864494,
+    "frames": 25,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x2",
+      "/main(0,2)/42243-rebirth.mod x7"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle3",
+      "run",
+      "walk"
+    ],
+    "image": "3993-gamedata.base-turn.png",
+    "case": "small"
+  },
+  {
+    "id": "3979-gamedata.base",
+    "name": "Bonedog",
+    "fit": "rideable-vanilla-animals.bonedog",
+    "scale": 0.575,
+    "turnDegrees": 95.019104,
+    "frames": 26,
+    "turnFrames": 8,
+    "maxPelvis": 0.015625,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x1",
+      "/main(0,2)/42315-changes_otto.mod x4",
+      "/main(1,2)/42243-rebirth.mod x3"
+    ],
+    "remounted": false,
+    "footDistance": 0,
+    "gaits": [
+      "idle2",
+      "run",
+      "walk"
+    ],
+    "image": "3979-gamedata.base-turn.png",
+    "case": "small"
+  }
+]

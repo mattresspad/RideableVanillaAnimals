@@ -1,0 +1,26 @@
+[
+  {
+    "Id": "56088-Newwworld.mod",
+    "Name": "Crab",
+    "Height": 18.8971725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 40
+  },
+  {
+    "Id": "3993-gamedata.base",
+    "Name": "Goat",
+    "Height": 10.0758817,
+    "Span": 12.810408500000001,
+    "Save": false,
+    "Age": 55
+  },
+  {
+    "Id": "3979-gamedata.base",
+    "Name": "Bonedog",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 55
+  }
+]

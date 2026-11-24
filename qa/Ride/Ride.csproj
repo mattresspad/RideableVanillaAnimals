@@ -1,0 +1,4 @@
+<Project Sdk="Microsoft.NET.Sdk">
+<PropertyGroup><TargetFramework>net11.0</TargetFramework><Nullable>enable</Nullable><ImplicitUsings>enable</ImplicitUsings><TreatWarningsAsErrors>true</TreatWarningsAsErrors><AssemblyName>RideableAnimals.Verification</AssemblyName><DefineConstants>NATIVE</DefineConstants><GameDir>$(MEITOU_DIR)</GameDir><PathMap>$(MSBuildProjectDirectory)=/_/qa</PathMap></PropertyGroup>
+<ItemGroup><Reference Include="MeitouClient;Meitou.Core;Meitou.Data;Meitou.Simulation;0Harmony"><HintPath>$(GameDir)/%(Identity).dll</HintPath><Private>false</Private></Reference></ItemGroup>
+</Project>

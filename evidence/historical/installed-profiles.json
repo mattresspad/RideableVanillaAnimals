@@ -1,0 +1,22 @@
+{
+  "public-release": {
+    "framework": "0.3.0-playtest.4",
+    "frameworkDllSha256": "a04eed2bc4cc1ce1806c0c046d6a8e28f678750c1ab728c21fdf958b3e65f7ac",
+    "matchesReferencePackage": true,
+    "loadOrder": [
+      "Meitou Transport.mod",
+      "Rideable Vanilla Animals.mod"
+    ],
+    "animalPackZipSha256": "327ee5a0f1c212a277a0a7aabc5f9ab5196a52f16388e809c73a550dc1a5b8d9"
+  },
+  "native-release": {
+    "framework": "0.3.0-qa.740",
+    "frameworkDllSha256": "c02f29166b011914376ac1ddc4cf92616be39ad2665acc3effa910ad80d9c850",
+    "matchesReferencePackage": true,
+    "loadOrder": [
+      "Meitou Transport.mod",
+      "Rideable Vanilla Animals.mod"
+    ],
+    "animalPackZipSha256": "327ee5a0f1c212a277a0a7aabc5f9ab5196a52f16388e809c73a550dc1a5b8d9"
+  }
+}

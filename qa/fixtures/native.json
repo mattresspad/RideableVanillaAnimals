@@ -1,0 +1,18 @@
+[
+  {
+    "Id": "3999-gamedata.base",
+    "Name": "Pack Beast",
+    "Height": 29.828232,
+    "Span": 30.289476999999998,
+    "Save": true,
+    "Age": 110
+  },
+  {
+    "Id": "3993-gamedata.base",
+    "Name": "Goat",
+    "Height": 10.0758817,
+    "Span": 12.810408500000001,
+    "Save": true,
+    "Age": 110
+  }
+]

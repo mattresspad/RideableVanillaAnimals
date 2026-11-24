@@ -1,0 +1,90 @@
+[
+  {
+    "Id": "42201-rebirth.mod",
+    "Name": "Garru",
+    "Height": 29.828232,
+    "Span": 30.289476999999998,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "3999-gamedata.base",
+    "Name": "Pack Beast",
+    "Height": 29.828232,
+    "Span": 30.289476999999998,
+    "Save": true,
+    "Age": 110
+  },
+  {
+    "Id": "8355-Dialogue.mod",
+    "Name": "Pack Beast Dead",
+    "Height": 29.828232,
+    "Span": 30.289476999999998,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "43949-rebirth.mod",
+    "Name": "Domesticated Bull",
+    "Height": 23.394267,
+    "Span": 30.906205,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "3986-gamedata.base",
+    "Name": "Wild Bull",
+    "Height": 24.388884,
+    "Span": 34.915782,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "3993-gamedata.base",
+    "Name": "Goat",
+    "Height": 10.0758817,
+    "Span": 12.810408500000001,
+    "Save": true,
+    "Age": 110
+  },
+  {
+    "Id": "64738-Dialogue.mod",
+    "Name": "Beloved Goat",
+    "Height": 10.0758817,
+    "Span": 12.810408500000001,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "58495-Dialogue.mod",
+    "Name": "Cornelius",
+    "Height": 10.0758817,
+    "Span": 12.810408500000001,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "3979-gamedata.base",
+    "Name": "Bonedog",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "10323-Dialogue (7).mod",
+    "Name": "Pet Dog",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "64737-Dialogue.mod",
+    "Name": "Settler's Pup",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 110
+  }
+]

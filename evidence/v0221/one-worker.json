@@ -1,0 +1,51 @@
+[
+  {
+    "id": "3999-gamedata.base",
+    "name": "Pack Beast",
+    "fit": "rideable-vanilla-animals.garru",
+    "scale": 1.0000265,
+    "turnDegrees": 91.45835,
+    "frames": 32,
+    "turnFrames": 11,
+    "maxPelvis": 0.01562512,
+    "maxSaddle": 0.008734854,
+    "bag": "4002-gamedata.base",
+    "cargo": [
+      "/backpack_attach(0,0)/4002-gamedata.base x1",
+      "/backpack_attach(0,0)/4002-gamedata.base/backpack_content(0,0)/42241-rebirth.mod x4",
+      "/main(0,2)/42243-rebirth.mod x10"
+    ],
+    "remounted": true,
+    "footDistance": 7.918284,
+    "gaits": [
+      "idle1",
+      "run",
+      "walk"
+    ],
+    "image": "3999-gamedata.base-turn.png"
+  },
+  {
+    "id": "3993-gamedata.base",
+    "name": "Goat",
+    "fit": "rideable-vanilla-animals.goat",
+    "scale": 1.0000793,
+    "turnDegrees": 95.86875,
+    "frames": 26,
+    "turnFrames": 8,
+    "maxPelvis": 0.016105996,
+    "maxSaddle": null,
+    "bag": null,
+    "cargo": [
+      "/main(0,0)/42241-rebirth.mod x2",
+      "/main(0,2)/42243-rebirth.mod x7"
+    ],
+    "remounted": true,
+    "footDistance": 9.605139,
+    "gaits": [
+      "idle3",
+      "run",
+      "walk"
+    ],
+    "image": "3993-gamedata.base-turn.png"
+  }
+]

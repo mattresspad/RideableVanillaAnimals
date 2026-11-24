@@ -1,0 +1,90 @@
+[
+  {
+    "Id": "42069-small_changes_otto.mod",
+    "Name": "Iron Spider",
+    "Height": 25.065369,
+    "Span": 51.395815999999996,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "48670-rebirth.mod",
+    "Name": "Security Spider",
+    "Height": 25.065369,
+    "Span": 51.395815999999996,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "50318-rebirth.mod",
+    "Name": "Security Spider II",
+    "Height": 25.065369,
+    "Span": 51.395815999999996,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "44882-rebirth.mod",
+    "Name": "Blood Spider",
+    "Height": 29.541113,
+    "Span": 38.865891000000005,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "43877-rebirth.mod",
+    "Name": "Skin Spider",
+    "Height": 29.541113,
+    "Span": 38.865891000000005,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "56087-rebirth.mod",
+    "Name": "Skimmer",
+    "Height": 39.076876,
+    "Span": 80.065636,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "43895-rebirth.mod",
+    "Name": "Gorillo",
+    "Height": 24.679047,
+    "Span": 29.798689,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "55670-rebirth.mod",
+    "Name": "Black Gorillo",
+    "Height": 24.679047,
+    "Span": 29.798689,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "98509-rebirth.mod",
+    "Name": "Great White Gorillo",
+    "Height": 24.679047,
+    "Span": 29.798689,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "62768-rebirth.mod",
+    "Name": "King Gorillo",
+    "Height": 25.836047,
+    "Span": 29.798689,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "99175-Dialogue.mod",
+    "Name": "War Gorillo",
+    "Height": 24.679047,
+    "Span": 29.798689,
+    "Save": false,
+    "Age": 110
+  }
+]

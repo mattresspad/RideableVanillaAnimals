@@ -1,0 +1,50 @@
+[
+  {
+    "Id": "65262-Newwworld.mod",
+    "Name": "Crimper",
+    "Height": 20.208087,
+    "Span": 38.982466,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "96147-__Southern hive.mod",
+    "Name": "King",
+    "Height": 20.208087,
+    "Span": 38.982466,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "97572-Newwworld.mod",
+    "Name": "Landbat",
+    "Height": 13.115057,
+    "Span": 20.306112,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "2859-gamedata.base",
+    "Name": "Beak Thing",
+    "Height": 41.462272,
+    "Span": 75.05160649,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "42067-small_changes_otto.mod",
+    "Name": "Cage Beast",
+    "Height": 44.531144999999995,
+    "Span": 103.743302,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "3988-gamedata.base",
+    "Name": "Swamp Turtle",
+    "Height": 47.59106,
+    "Span": 62.055366,
+    "Save": false,
+    "Age": 110
+  }
+]

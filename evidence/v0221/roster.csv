@@ -1,0 +1,44 @@
+id,name,fit,case,scale,turnDegrees,frames,turnFrames,maxPelvis,maxSaddle,bag,remounted,footDistance
+42201-rebirth.mod,Garru,rideable-vanilla-animals.garru,packs-and-goats,1,92.63143,31,13,0.016105881,0.008734854,,False,0
+3999-gamedata.base,Pack Beast,rideable-vanilla-animals.garru,packs-and-goats,1.0000569,93.80426,39,14,0.017469388,0.008734854,4002-gamedata.base,True,6.2361164
+8355-Dialogue.mod,Pack Beast Dead,rideable-vanilla-animals.garru,packs-and-goats,1.0000569,91.45835,27,11,0.011048543,0.008734641,4002-gamedata.base,False,0
+43949-rebirth.mod,Domesticated Bull,rideable-vanilla-animals.domesticated-bull,packs-and-goats,1.0000482,95.230415,31,12,0.016105881,0.008734854,,False,0
+3986-gamedata.base,Wild Bull,rideable-vanilla-animals.horned-bull,packs-and-goats,1.0000482,92.83031,31,11,0.011718909,0.0078125,,False,0
+3993-gamedata.base,Goat,rideable-vanilla-animals.goat,packs-and-goats,1.0002402,95.868256,32,8,0.01562512,,,True,6.232744
+64738-Dialogue.mod,Beloved Goat,rideable-vanilla-animals.goat,packs-and-goats,1.0002402,95.86579,23,8,0.016105996,,,False,0
+58495-Dialogue.mod,Cornelius,rideable-vanilla-animals.goat,packs-and-goats,1.0001801,95.86579,22,8,0.016105881,,,False,0
+3979-gamedata.base,Bonedog,rideable-vanilla-animals.bonedog,packs-and-goats,0.85013855,94.860085,24,8,0.008734854,,,False,0
+10323-Dialogue (7).mod,Pet Dog,rideable-vanilla-animals.bonedog,packs-and-goats,1.0001941,94.86252,22,8,0.01562512,,,False,0
+64737-Dialogue.mod,Settler's Pup,rideable-vanilla-animals.bonedog,packs-and-goats,1.0001941,94.89568,23,8,0.008735494,,,False,0
+16859-gamedata.base,Mountain Dog,rideable-vanilla-animals.bonedog,dogs-raptors-and-crabs,1.1,95.00209,26,8,0.015625,,,False,0
+62551-rebirth.mod,Horse Dog,rideable-vanilla-animals.bonedog,dogs-raptors-and-crabs,1,94.87514,23,8,0.015625,,,False,0
+62553-rebirth.mod,Boneyard Wolf,rideable-vanilla-animals.bonedog,dogs-raptors-and-crabs,1.5,96.53745,24,8,0.016105996,,,False,0
+44911-rebirth.mod,River Raptor,rideable-vanilla-animals.river-raptor,dogs-raptors-and-crabs,1,92.36922,36,9,0.016105881,,,False,0
+43326-rebirth.mod,Swamp Raptor,rideable-vanilla-animals.swamp-raptor,dogs-raptors-and-crabs,1.5,92.36922,35,9,0.016105996,,,False,0
+50983-rebirth.mod,Megaraptor,rideable-vanilla-animals.megaraptor,dogs-raptors-and-crabs,3.5,92.369865,36,9,0.011049218,,,False,0
+56088-Newwworld.mod,Crab,rideable-vanilla-animals.crab,dogs-raptors-and-crabs,1,93.613304,28,9,0.008734854,,,False,0
+56121-rebirth.mod,Megacrab,rideable-vanilla-animals.giant-crab,dogs-raptors-and-crabs,2.25,93.65423,27,8,0.016105996,,,False,0
+1532791-rebirth.mod,Barnabus,rideable-vanilla-animals.giant-crab,dogs-raptors-and-crabs,2.25,93.65423,27,8,0.008736559,,,False,0
+1532793-rebirth.mod,Mr Gigantus,rideable-vanilla-animals.giant-crab,dogs-raptors-and-crabs,2.25,93.65423,27,8,0.008734854,,,False,0
+1532795-rebirth.mod,The Crabinator,rideable-vanilla-animals.giant-crab,dogs-raptors-and-crabs,2.25,93.65423,27,8,0.017469281,,,False,0
+1532708-rebirth.mod,Titus,rideable-vanilla-animals.crab,dogs-raptors-and-crabs,1,93.58532,28,9,0.01562512,,,False,0
+42069-small_changes_otto.mod,Iron Spider,rideable-vanilla-animals.robot-spider,spiders-and-gorillos,1,93.62528,28,9,0.016105996,,,False,0
+48670-rebirth.mod,Security Spider,rideable-vanilla-animals.robot-spider,spiders-and-gorillos,0.6,93.52254,28,9,0.016105996,,,False,0
+50318-rebirth.mod,Security Spider II,rideable-vanilla-animals.robot-spider,spiders-and-gorillos,0.3,93.04911,27,8,0.01562512,,,False,0
+44882-rebirth.mod,Blood Spider,rideable-vanilla-animals.flesh-spider,spiders-and-gorillos,0.3,95.810524,20,8,0.016105996,,,False,0
+43877-rebirth.mod,Skin Spider,rideable-vanilla-animals.flesh-spider,spiders-and-gorillos,1,95.810524,20,8,0.008734854,,,False,0
+56087-rebirth.mod,Skimmer,rideable-vanilla-animals.skimmer,spiders-and-gorillos,0.8,96.51802,20,8,0.01562512,,,False,0
+43895-rebirth.mod,Gorillo,rideable-vanilla-animals.gorillo,spiders-and-gorillos,0.85,97.20449,23,8,0.016106345,,,False,0
+55670-rebirth.mod,Black Gorillo,rideable-vanilla-animals.gorillo,spiders-and-gorillos,1.1,97.28442,22,8,0.016105881,,,False,0
+98509-rebirth.mod,Great White Gorillo,rideable-vanilla-animals.gorillo,spiders-and-gorillos,0.85,97.81264,21,8,0.016105996,,,False,0
+62768-rebirth.mod,King Gorillo,rideable-vanilla-animals.king-gorillo,spiders-and-gorillos,2.5,98.53461,22,8,0.016105881,,,False,0
+99175-Dialogue.mod,War Gorillo,rideable-vanilla-animals.gorillo,spiders-and-gorillos,1.1,98.06536,23,8,0.016105996,,,False,0
+65262-Newwworld.mod,Crimper,rideable-vanilla-animals.crimper,large-animals,1.5,103.28588,20,8,0.015625477,,,False,0
+96147-__Southern hive.mod,King,rideable-vanilla-animals.crimper,large-animals,1.5,97.78095,20,8,0.015625,,,False,0
+97572-Newwworld.mod,Landbat,rideable-vanilla-animals.landbat,large-animals,1.25,94.73089,27,8,0.016105881,,,False,0
+2859-gamedata.base,Beak Thing,rideable-vanilla-animals.beak-thing,large-animals,1,92.94326,26,10,0.02376087,,,False,0
+42067-small_changes_otto.mod,Cage Beast,rideable-vanilla-animals.cage-beast,large-animals,1.1,99.82193,27,11,0.011718909,,,False,0
+3988-gamedata.base,Swamp Turtle,rideable-vanilla-animals.swamp-turtle,large-animals,1.5,96.02794,27,11,0.015625477,,,False,0
+56111-Newwworld.mod,Cleanser Unit,rideable-vanilla-animals.cleanser,cleanser,1,97.28675,38,16,0.015625477,,,False,0
+3967-gamedata.base,Leviathan,rideable-vanilla-animals.leviathan,leviathan,1.5,98.50222,37,16,0.016107732,,,False,0
+47929-rebirth.mod,Pack Bull,rideable-vanilla-animals.horned-bull,trader,0.6994449,82.56986,43,20,0.008735494,0.00552562,43948-rebirth.mod,True,7.988235

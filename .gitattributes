@@ -1,0 +1,10 @@
+* text=auto eol=lf
+*.cs text eol=lf
+*.ps1 text eol=lf
+*.py text eol=lf
+*.md text eol=lf
+*.json text eol=lf
+*.mod binary
+*.mesh binary
+*.dds binary
+"mods/Rideable Vanilla Animals/transport.json" -text whitespace=cr-at-eol

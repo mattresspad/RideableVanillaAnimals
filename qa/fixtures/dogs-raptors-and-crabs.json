@@ -1,0 +1,98 @@
+[
+  {
+    "Id": "16859-gamedata.base",
+    "Name": "Mountain Dog",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "62551-rebirth.mod",
+    "Name": "Horse Dog",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "62553-rebirth.mod",
+    "Name": "Boneyard Wolf",
+    "Height": 15.022056,
+    "Span": 21.1382965,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "44911-rebirth.mod",
+    "Name": "River Raptor",
+    "Height": 15.488448,
+    "Span": 22.343131,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "43326-rebirth.mod",
+    "Name": "Swamp Raptor",
+    "Height": 15.106448,
+    "Span": 23.964245,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "50983-rebirth.mod",
+    "Name": "Megaraptor",
+    "Height": 12.982448,
+    "Span": 23.964245,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "56088-Newwworld.mod",
+    "Name": "Crab",
+    "Height": 18.8971725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "56121-rebirth.mod",
+    "Name": "Megacrab",
+    "Height": 17.7771725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "1532791-rebirth.mod",
+    "Name": "Barnabus",
+    "Height": 17.7771725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "1532793-rebirth.mod",
+    "Name": "Mr Gigantus",
+    "Height": 17.7771725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "1532795-rebirth.mod",
+    "Name": "The Crabinator",
+    "Height": 17.7771725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 110
+  },
+  {
+    "Id": "1532708-rebirth.mod",
+    "Name": "Titus",
+    "Height": 18.8971725,
+    "Span": 49.576916,
+    "Save": false,
+    "Age": 110
+  }
+]
